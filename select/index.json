@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マジックスマイル",
+  "base_artist": "ゆな from STAR☆ANIS",
+  "createdAt": "2025-12-17T08:50:51.084854Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジックスマイル",
+      "artist": "ゆな from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_マジックスマイル_ゆな_from_STAR☆ANIS.txt"
+    }
+  ]
+}
